@@ -10,3 +10,6 @@
 **Kids projets**
 * https://www.instructables.com/
 * https://hackaday.com/
+
+**Trending links**
+* https://www.whatisdevrel.com/ 
