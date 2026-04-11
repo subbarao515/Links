@@ -31,3 +31,4 @@
 12. Terraform Best Practices https://lnkd.in/g7iDVnfP 
 13. Terraform With Kubernetes https://lnkd.in/gEziumJK 
 14. Terraform Enterprise, Sentinel, Custom Providers https://lnkd.in/g_FNYS9c
+15.  Argo CD https://www.youtube.com/watch?v=m4lDTQwK1T8
